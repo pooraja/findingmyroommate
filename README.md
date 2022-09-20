@@ -10,7 +10,7 @@ the pain points in the journey of “finding and keeping a good roommate is more
 
 ## For that a solution has arrived
 
-1.visit our site ()
+1.visit our site 
 2.enter the location.
 3.enter the date of arrival to the appartment
 4.then enter how many people and rooms you want
@@ -32,4 +32,13 @@ i think you problem can be solve with my work.why not just give a try for it.
 ![react-sample (3)](https://user-images.githubusercontent.com/61987404/191197450-6ab24907-3ac9-4151-bdd2-50081f58b58f.png)
 ![react-sample (4)](https://user-images.githubusercontent.com/61987404/191197454-4e4abeee-13a2-4d2b-a273-e0c4ded38a1e.png)
 ![react-sample (5)](https://user-images.githubusercontent.com/61987404/191197459-d3ce2e58-5349-4988-9ea5-60f6f192b8b6.png)
+
+## sample video
+
+
+
+
+
+https://user-images.githubusercontent.com/61987404/191297240-e296e182-e210-4903-9177-971f8a3e21ed.mp4
+
 
