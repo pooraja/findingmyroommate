@@ -26,3 +26,10 @@ the pain points in the journey of “finding and keeping a good roommate is more
 i think you problem can be solve with my work.why not just give a try for it.
 
 ## Sample of this Web-application
+
+![react-sample (1)](https://user-images.githubusercontent.com/61987404/191197434-41189cb3-9e05-4e2c-8810-c036d862e280.png)
+![react-sample (2)](https://user-images.githubusercontent.com/61987404/191197442-48525045-7706-4283-8cc5-8d94378ed705.png)
+![react-sample (3)](https://user-images.githubusercontent.com/61987404/191197450-6ab24907-3ac9-4151-bdd2-50081f58b58f.png)
+![react-sample (4)](https://user-images.githubusercontent.com/61987404/191197454-4e4abeee-13a2-4d2b-a273-e0c4ded38a1e.png)
+![react-sample (5)](https://user-images.githubusercontent.com/61987404/191197459-d3ce2e58-5349-4988-9ea5-60f6f192b8b6.png)
+
